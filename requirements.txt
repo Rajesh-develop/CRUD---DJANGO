@@ -4,3 +4,9 @@ python-decouple==3.8
 sqlparse==0.4.4
 typing_extensions==4.7.1
 tzdata==2023.3
+
+create .env file into project toor directory - crudproject
+add following key in .env file
+
+SECRET_KEY=your_secret_key_here
+
